@@ -223,4 +223,3 @@ Mail : formation.continue@insset.u-picardie.fr
 ## LOCALISATION
 
 Saint-Quentin est une ville Art Déco entre Lille, Paris et Amiens
-

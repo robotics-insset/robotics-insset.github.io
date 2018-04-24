@@ -136,6 +136,7 @@ defaults:
   -
     scope:
       path: "" # all files
+      type: "pages"
     values:
       layout: "page"
       show-avatar: true
@@ -209,5 +210,7 @@ prose:
 gems:
   - jekyll-paginate
 
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
+collections:
+  pages:
+    output: true
+    permalink: /:path

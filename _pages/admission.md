@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Admission (Master Robotique)
+title: Admission
 permalink: admission.html
+use-site-title: true
 ---
 
 

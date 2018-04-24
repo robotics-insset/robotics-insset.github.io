@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Programme (Master Robotique)
+title: Programme
 permalink: programme.html
+use-site-title: true
 ---
 
 ## Contenu des cours

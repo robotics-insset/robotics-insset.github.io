@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact (Master Robotique)
+title: Contact
 use-site-title: true
 permalink: contact.html
 ---
@@ -32,3 +32,8 @@ Madame Noëlle HETUIN
 Tél : 03 23 62 89 66
 
 Mail : formation.continue@insset.u-picardie.fr 
+
+
+## Localisation
+
+Saint-Quentin est une ville Art Déco entre Lille, Paris et Amiens

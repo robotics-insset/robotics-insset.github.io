@@ -1,8 +1,7 @@
 ---
 layout: page
-title: News (Master Robotique)
+title: News
 permalink: news.html
-permalink: contact.html
 ---
 
  {% include /news.html %}

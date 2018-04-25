@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Cours en anglais
+title: Courses en anglais
 subtitle: Trois courses vont enseigner en anglais
-image: /img/_posts/master.jpg
+image: /img/icon.jpg
 tags: [course]
 ---
 

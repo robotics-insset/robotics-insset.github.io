@@ -7,10 +7,13 @@
 url: "http://robotics-insset.github.io"
 baseurl: ""
 
+
 plugins:
-  - jekyll-sitemap
   - github-pages
+  - jekyll-sitemap
   - jekyll-paginate
+
+  
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
@@ -30,7 +33,7 @@ navbar-links:
   Home: ""
   Admission: "admission"
   Programme: "programme"
-  Plateform: "platform"
+  Plateforme: "platform"
   # Teaching: "teaching"
   News: "news"
   Contact: "contact"
@@ -210,9 +213,6 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
-
-gems:
-  - jekyll-paginate
 
 collections:
   pages:

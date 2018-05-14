@@ -26,10 +26,10 @@ plugins_dir:
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Master robotique
+title: Master Industrie Numérique (robotique)
 
 # Short description of your site
-description: Master robotique!
+description: Master Industrie Numérique (robotique)
 
 # --- Navigation bar options --- #
 
@@ -38,7 +38,7 @@ navbar-links:
   Home: ""
   Admission: "admission"
   Programme: "programme"
-  Plateforme: "platform"
+  Plateforme: "plateforme"
   # Teaching: "teaching"
   News: "news"
   Contact: "contact"

@@ -16,9 +16,7 @@ subtitle: Master Industrie Numérique (Formation en alternance/ Formation initia
             </a>
             </p>
 
-<center>
 ![Image of Robots]({{ site.baseurl }}/img/bandeau-IN-web.png)
-</center>
 
 ## PRESENTATION ET OBJECTIFS
 

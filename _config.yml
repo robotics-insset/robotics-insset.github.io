@@ -7,13 +7,8 @@
 url: "http://robotics-insset.github.io"
 baseurl: ""
 
-<<<<<<< HEAD
 
 plugins:
-=======
-plugins_dir:
-  - jekyll-sitemap
->>>>>>> 9a4bbd46f24ebc4b4f635ac9c3c290e176f9494d
   - github-pages
   - jekyll-sitemap
   - jekyll-paginate

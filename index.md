@@ -84,8 +84,9 @@ subtitle: Master Industrie Numérique (Formation en alternance/ Formation initia
     </a>
   </div>
 </div>
----
 
-## NEWS
+***
+
+## <span style="color:DarkBlue">NEWS</span>
 
  {% include /news.html %}

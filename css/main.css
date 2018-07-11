@@ -29,7 +29,7 @@ a:focus {
   color: #0085a1;
 }
 blockquote {
-  color: #808080;
+  color: #4e4d4d;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -315,7 +315,7 @@ footer .theme-by {
 }
 
 .post-preview .post-title {
-  font-size: 30px;
+  font-size: 26px;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
@@ -361,7 +361,7 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 36px;
+    font-size: 30px;
   }
 }
 

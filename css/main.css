@@ -110,6 +110,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
+  font-size: medium;
   font-weight: 800;
   color: #404040;
 }

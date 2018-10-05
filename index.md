@@ -96,6 +96,20 @@ subtitle: Master Industrie Numérique (Formation en alternance/ Formation initia
   </div>
 </div>
 
+### PARTENAIRES PEDAGOGIQUE
+<div class="row">
+  <div class="col-lg-6 col-md-8 col-xs-10 thumb">
+    <a class="thumbnail" href="#">
+      <img class="img-fluid" src="/img/logo-NVIDIA.jpg" alt="">
+    </a>
+  </div>
+  <div class="col-lg-6 col-md-8 col-xs-10 thumb">
+    <a class="thumbnail" href="#">
+      <img class="img-fluid" src="/img/GCP.png" alt="">
+    </a>
+  </div>
+</div>
+
 ***
 
 ## <span style="color:DarkBlue">NEWS</span>

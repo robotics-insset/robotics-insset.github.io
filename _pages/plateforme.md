@@ -12,6 +12,16 @@ use-site-title: true
 <div class="row">
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
     <a class="thumbnail" href="#">
+      <img class="img-fluid" src="/img/salleRobotics.jpg" alt="master robotique">
+    </a>
+  </div>
+    <div class="col-lg-6 col-md-8 col-xs-10 thumb">
+    <a class="thumbnail" href="#">
+      <img class="img-fluid" src="/img/robot4.jpg" alt="master robotique">
+    </a>
+  </div>
+  <div class="col-lg-6 col-md-8 col-xs-10 thumb">
+    <a class="thumbnail" href="#">
       <img class="img-fluid" src="/img/robot1.jpg" alt="master robotique">
     </a>
   </div>
@@ -30,9 +40,14 @@ use-site-title: true
       <img class="img-fluid" src="/img/robot5.jpg" alt="master robotique">
     </a>
   </div>
-  <div class="col-lg-6 col-md-8 col-xs-10 thumb">
+    <div class="col-lg-6 col-md-8 col-xs-10 thumb">
     <a class="thumbnail" href="#">
-      <img class="img-fluid" src="/img/robot4.jpg" alt="master robotique">
+      <img class="img-fluid" src="/img/robot7.jpg" alt="master robotique">
+    </a>
+  </div>
+    <div class="col-lg-6 col-md-8 col-xs-10 thumb">
+    <a class="thumbnail" href="#">
+      <img class="img-fluid" src="/img/robot6.jpg" alt="master robotique">
     </a>
   </div>
 </div>

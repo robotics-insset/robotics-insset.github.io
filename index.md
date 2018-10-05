@@ -82,30 +82,30 @@ subtitle: Master Industrie Numérique (Formation en alternance/ Formation initia
 > L'alternance permet d'allier études et mise en pratique en entreprise  
 [Le guide de l'alternant](http://www.insset.u-picardie.fr/images/Guide_de_lalternant.pdf)
 
-
+### PARTENAIRES INDUSTRIELS
 <div class="row">
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
-    <a class="thumbnail" href="#">
+    <a class="thumbnail" href="https://www.actemium.fr/fr/">
       <img class="img-fluid" src="/img/actemium.jpg" alt="">
     </a>
   </div>
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
-    <a class="thumbnail" href="#">
+    <a class="thumbnail" href="http://www.axema.fr/agroequipements/Pages/Article.aspx?IDArticle=344&Categorie=Technique">
       <img class="img-fluid" src="/img/robagri.jpg" alt="">
     </a>
   </div>
 </div>
 
-### PARTENAIRES PEDAGOGIQUE
+### PARTENAIRES PEDAGOGIQUES
 <div class="row">
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
-    <a class="thumbnail" href="#">
-      <img class="img-fluid" src="/img/logo-NVIDIA.jpg" alt="">
+    <a class="thumbnail" href="https://cloud.google.com/">
+      <img class="img-fluid" src="/img/GCP.png" alt="">
     </a>
   </div>
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
-    <a class="thumbnail" href="#">
-      <img class="img-fluid" src="/img/GCP.png" alt="">
+    <a class="thumbnail" href="https://www.nvidia.com/fr-fr/">
+      <img class="img-fluid" src="/img/Logo-NVIDIA.jpg" alt="">
     </a>
   </div>
 </div>

@@ -34,7 +34,7 @@ navbar-links:
   Admission: "admission"
   Programme: "programme"
   Plateforme: "plateforme"
-  # Teaching: "teaching"
+  Calendar: "calendar"
   News: "news"
   Contact: "contact"
   # Master Robotique: "master"

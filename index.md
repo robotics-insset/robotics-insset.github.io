@@ -7,14 +7,8 @@ subtitle: Master Industrie Numérique (Formation en alternance/ Formation initia
 <p align="center">Mis à jour le 05 april 2019</p>
 
 <p align="center">
-<a href="https://twitter.com/robotics_insset" title="master robotique twitter">
-              <span class="fa-stack fa-lg" aria-hidden="true">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-              </span>
-              <span class="sr-only">Twitter</span>
-            </a>
-            </p>
+<a href="https://twitter.com/robotics_insset?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @robotics_insset</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
 ![Image of Robots]({{ site.baseurl }}/img/bandeau-IN-web.png)
 
@@ -58,8 +52,8 @@ subtitle: Master Industrie Numérique (Formation en alternance/ Formation initia
 
 |  M1 | M2 |
 | :-------- | :-------- |
-| - C1: Capteurs et instrumentations <br/> - [C2: Robotique]({{ site.baseurl }}/c2.html) <br/> - C3: Outils de modélisation mécanique <br/> -  [C4: Objets connectés]({{ site.baseurl }}/c4.html) <br/> - [S1: Automatique des systèmes linéaires]({{ site.baseurl }}/s1.html) <br/> - [S2: Conception mécanique]({{ site.baseurl }}/s2.html) <br/> - [S3: Initiation au Cloud]({{ site.baseurl }}/s3.html) <br/> - S4: Programmation et algorithmique <br/> - S5: Outils mathématiques <br/>   | - Conception des algorithmes en temps réel <br/> - Normes et certifications <br/> - Robotique mobile <br/> - Commande des robots <br/> - Intelligence artificiel  <br/> - Architecture et OS pour la robotique <br/> - Automatique des systèmes non-linéaires <br/> - Traitement des signaux numériques <br/> - Séminaires Industriels   |
-| - C5: Management et suivi de projet <br/> - C6: Ingénierie de développement <br/> - C7: Langage de programmation <br/> - S6: Programmation et database <br/> - [S7: Outils numériques de conception]({{ site.baseurl }}/s7.html)  <br/> - S8: Objets connectés (avancé) <br/> - [S9 :Vision et traitement d'images]({{ site.baseurl }}/s9.html) <br/> - [S10: Perception robotique]({{ site.baseurl }}/s10.html) <br/>  | - Localisation et navigation de robots <br/> - Big Data <br/> - Administration et programmation du Cloud <br/> - Séminaires Industriels <br/> - Création d’entreprise <br/>  <br/>  <br/> <br/>  |
+| - C1: Capteurs et instrumentations <br/> - [C2: Robotique]({{ site.baseurl }}/c2.html) <br/> - [C3: Outils de modélisation mécanique]({{ site.baseurl }}/s2.html)) <br/> -  [C4: Objets connectés]({{ site.baseurl }}/c4.html) <br/> - [S1: Automatique des systèmes linéaires]({{ site.baseurl }}/s1.html) <br/> - S2: ROS (Introduction) <br/> - [S3: Initiation au Cloud]({{ site.baseurl }}/s3.html) <br/> - S4: Programmation et algorithmique <br/> - S5: Outils mathématiques <br/>   | - Conception des algorithmes en temps réel <br/> - Normes et certifications <br/> - Robotique mobile <br/> - Commande des robots <br/> - Intelligence artificiel  <br/> - Architecture et OS pour la robotique <br/> - Automatique des systèmes non-linéaires <br/> - Traitement des signaux numériques <br/> - Séminaires Industriels   |
+| - C5: Management et suivi de projet <br/> - C6: Ingénierie de développement <br/> - C7: Langage de programmation <br/> - S6: Programmation Robotique <br/> - [S7: Outils numériques de conception]({{ site.baseurl }}/s7.html)  <br/> - S8: Objets connectés (avancé) <br/> - [S9 :Vision et traitement d'images]({{ site.baseurl }}/s9.html) <br/> - [S10: Perception robotique]({{ site.baseurl }}/s10.html) <br/> - S11 :Robot Kinematics and Dynamics <br/> - S12: Programmation GPU | - Localisation et navigation de robots <br/> - Big Data <br/> - Administration et programmation du Cloud <br/> - Séminaires Industriels <br/> - Création d’entreprise <br/>  <br/>  <br/> <br/>  |
 
 <!-- ---
 
@@ -114,4 +108,4 @@ subtitle: Master Industrie Numérique (Formation en alternance/ Formation initia
 
 ## <span style="color:DarkBlue">NEWS</span>
 
- {% include /news.html %}
+<a class="twitter-timeline" href="https://twitter.com/robotics_insset?ref_src=twsrc%5Etfw" data-tweet-limit="6">Tweets by robotics_insset</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

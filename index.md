@@ -4,7 +4,7 @@ title: Master Industrie Numérique (Robotique) INSSET/UPJV
 subtitle: Master Industrie Numérique (Formation en alternance/ Formation initial à Saint Quentin)
 ---
 
-<p align="center">Mis à jour le 05 octobre 2018</p>
+<p align="center">Mis à jour le 05 april 2019</p>
 
 <p align="center">
 <a href="https://twitter.com/robotics_insset" title="master robotique twitter">

@@ -4,7 +4,7 @@ title: Master Industrie Numérique (Robotique) INSSET/UPJV
 subtitle: Master Industrie Numérique (Formation en alternance/ Formation initial à Saint Quentin)
 ---
 
-<p align="center">Mis à jour le 05 april 2019</p>
+<p align="center">Mis à jour le 28 mai 2019</p>
 
 <p align="center">
 <a href="https://twitter.com/robotics_insset?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @robotics_insset</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -52,8 +52,8 @@ subtitle: Master Industrie Numérique (Formation en alternance/ Formation initia
 
 |  M1 | M2 |
 | :-------- | :-------- |
-| - C1: Capteurs et instrumentations <br/> - [C2: Robotique]({{ site.baseurl }}/c2.html) <br/> - [C3: Outils de modélisation mécanique]({{ site.baseurl }}/s2.html)) <br/> -  [C4: Objets connectés]({{ site.baseurl }}/c4.html) <br/> - [S1: Automatique des systèmes linéaires]({{ site.baseurl }}/s1.html) <br/> - S2: ROS (Introduction) <br/> - [S3: Initiation au Cloud]({{ site.baseurl }}/s3.html) <br/> - S4: Programmation et algorithmique <br/> - S5: Outils mathématiques <br/>   | - Conception des algorithmes en temps réel <br/> - Normes et certifications <br/> - Robotique mobile <br/> - Commande des robots <br/> - Intelligence artificiel  <br/> - Architecture et OS pour la robotique <br/> - Automatique des systèmes non-linéaires <br/> - Traitement des signaux numériques <br/> - Séminaires Industriels   |
-| - C5: Management et suivi de projet <br/> - C6: Ingénierie de développement <br/> - C7: Langage de programmation <br/> - S6: Programmation Robotique <br/> - [S7: Outils numériques de conception]({{ site.baseurl }}/s7.html)  <br/> - S8: Objets connectés (avancé) <br/> - [S9 :Vision et traitement d'images]({{ site.baseurl }}/s9.html) <br/> - [S10: Perception robotique]({{ site.baseurl }}/s10.html) <br/> - S11 :Robot Kinematics and Dynamics <br/> - S12: Programmation GPU | - Localisation et navigation de robots <br/> - Big Data <br/> - Administration et programmation du Cloud <br/> - Séminaires Industriels <br/> - Création d’entreprise <br/>  <br/>  <br/> <br/>  |
+| - M1C1: Capteurs et instrumentations <br/> - [M1C2: Robotique]({{ site.baseurl }}/c2.html) <br/> - M1C3: Langage de programmation <br/> - [M1C4: Objets connectés]({{ site.baseurl }}/c4.html) <br/> - [M1S1: Automatique des systèmes linéaires]({{ site.baseurl }}/s1.html) <br/> - [M1S2: Conception mécanique]({{ site.baseurl }}/s2.html) <br/> - M1S3: ROS <br/> - M1S4: Programmation et algorithmique <br/> - S5: Outils mathématiques <br/>   | - M2C1: Conception des algorithmes en temps réel <br/> - M2C2: Normes et certifications <br/> - M2S1: Robotique mobile <br/> - M2S2: Commande des robots <br/> - M2S3: Intelligence artificiel  <br/> - M2S4: Modélisation et Simulation Robotique (Gazebo)  <br/> - M2S5: Cloud robotics / Web services <br/> - M2S5: Automatique des systèmes non-linéaires <br/> - M2S6: Traitement des signaux numériques <br/> - M2S7: Séminaires Industriels   |
+| - M1C5: Management et suivi de projet <br/> - M1C6: Ingénierie de développement <br/> - M1C7: Outils numériques de conception <br/> - M1S6: Programmation Robotique <br/> - M1S7: Programmation GPU  <br/> - M1S8: Objets connectés (avancé) <br/> - [M1S9 :Vision et traitement d'images]({{ site.baseurl }}/s9.html) <br/> - [M1S10: Perception robotique]({{ site.baseurl }}/s10.html) <br/>  - M1S11: Robot Kinematics and Dynamics <br/> | - M2S8: Localisation et navigation de robots <br/> - M2S9: Big Data <br/> - M2S10: Research methodology <br/> - M2S11: Séminaires Industriels <br/> - M2S12: Création d’entreprise <br/>  <br/>  <br/> <br/>  |
 
 <!-- ---
 

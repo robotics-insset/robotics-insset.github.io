@@ -30,17 +30,41 @@ subtitle: Master Industrie Numérique (Formation en alternance/ Formation initia
 * Apprendre « comment apprendre »
 
 <div class="row">
-  <div class="col-lg-3 col-md-3 col-xs-3 thumb">
-    <iframe width="200" height="125" src="https://www.youtube.com/embed/anMhoAE4wAk" frameborder="0" allowfullscreen></iframe>
+  <div class="col-lg-6 col-md-8 col-xs-10 thumb">
+    <iframe
+      width="400"
+      height="250"
+      src="https://www.youtube.com/embed/tOxgJZkYv3Q"
+      frameborder="0"
+      allowfullscreen
+    ></iframe>
   </div>
-  <div class="col-lg-3 col-md-3 col-xs-3 thumb">
-    <iframe width="200" height="125" src="https://www.youtube.com/embed/4njd38My6Bk" frameborder="0" allowfullscreen></iframe>
+  <div class="col-lg-6 col-md-8 col-xs-10 thumb">
+    <iframe
+      width="400"
+      height="250"
+      src="https://www.youtube.com/embed/jvVT7RVgUDo"
+      frameborder="0"
+      allowfullscreen
+    ></iframe>
   </div>
-  <div class="col-lg-3 col-md-3 col-xs-3 thumb">
-    <iframe width="200" height="125" src="https://www.youtube.com/embed/CjyBWNTXLOA" frameborder="0" allowfullscreen></iframe>
+  <div class="col-lg-6 col-md-8 col-xs-10 thumb">
+    <iframe
+      width="400"
+      height="250"
+      src="https://www.youtube.com/embed/fFn0UDd5TQY"
+      frameborder="0"
+      allowfullscreen
+    ></iframe>
   </div>
-  <div class="col-lg-3 col-md-3 col-xs-3 thumb">
-    <iframe width="200" height="125" src="https://www.youtube.com/embed/Jzk7sBC1qDI" frameborder="0" allowfullscreen></iframe>
+  <div class="col-lg-6 col-md-8 col-xs-10 thumb">
+    <iframe
+      width="400"
+      height="250"
+      src="https://www.youtube.com/embed/bE4P1yyvaEs"
+      frameborder="0"
+      allowfullscreen
+    ></iframe>
   </div>
 </div>
 

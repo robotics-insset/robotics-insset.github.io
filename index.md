@@ -8,7 +8,7 @@ subtitle: Master Industrie Numérique (Formation en alternance/ Formation initia
 ![Image of Robots]({{ site.baseurl }}/img/Insset_logo.png)
 {: refdef}
 
-<p align="center">Mis à jour le 28 mai 2019</p>
+<p align="center">Mis à jour le 28 June 2019</p>
 
 <p align="center">
 <a href="https://twitter.com/robotics_insset?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @robotics_insset</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
